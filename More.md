@@ -1,5 +1,5 @@
 ## Others
-- Proyect in GitHub: https://github.com/jacesca/ETL-python
+- Proyect in GitHub: https://github.com/jacesca/pyspark-quick-sample
 - Launch jupyter notebook
 ```
 jupyter notebook

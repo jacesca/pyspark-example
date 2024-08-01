@@ -6,7 +6,7 @@
 - Fork the project into your GitHub
 - Clone it into your dektop
 ```
-git clone https://github.com/jacesca/ETL-python.git
+git clone https://github.com/jacesca/pyspark-quick-sample.git
 ```
 - Setup environment (it requires python3)
 ```
